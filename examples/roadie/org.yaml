@@ -27,6 +27,6 @@ spec:
     - ./marketing-group.yaml
     - ./engineers-group.yaml
     - ./team-alpha-group.yaml
-    - ./team-bravo-group.yaml
+    - ./team-beta-group.yaml
     - ./team-charlie-group.yaml
     - ./team-delta-group.yaml
