@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: wayback-search
   description: Search of the wayback machine
+  annotations:
+    buildkite.com/project-slug: [ 'RoadieHQ/demo-data' ]
 spec:
   type: service
   lifecycle: production
