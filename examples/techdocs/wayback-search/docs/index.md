@@ -1,6 +1,6 @@
 # Overview
 
-This is an example of what you can do in techdocs.
+This is an example of what you can do in techdogs.
 
 Here is the overview page for the wayback search component.
 
