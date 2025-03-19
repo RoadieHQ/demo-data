@@ -1,0 +1,16 @@
+apiVersion: scaffolder.backstage.io/v1beta3
+kind: Template
+metadata:
+  name: hello-world-template
+  title: Hello World Template
+  description: Hello World Template
+spec:
+  owner: group:default/engineers
+  type: service
+  parameters: []
+  steps:
+    - id: log-hello-world
+      name: Log Message
+      action: debug:log
+      input:
+        message: 'Hello World!'
